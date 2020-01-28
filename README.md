@@ -4,12 +4,12 @@
 **Contact:** cgo221@nyu.edu	 
 **Term:** Spring 2020  
 **Section:** 003   
-**Room"** 411  
+**Room:** 411  
 **Time:** Tues, 3:20pm - 5:50pm  
 **Mimi Office Hours:** [sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUl0bkJBeEw5QmpTfGRlZmF1bHR8MTVmMGJiY2ZkYjkyNWQ0NGQ1Y2YzODliMDQ0MmRlODU)  
 **Residents:** Ellen and Alden   
 **Ellen and Alden office hours:** [Find here](https://itp.nyu.edu/residents/contact-the-residents/)  
-**Official Thesis Journal **: https://itp.nyu.edu/thesis/journal2020
+**Official Thesis Journal**: https://itp.nyu.edu/thesis/journal2020
 
 ## Overview
 
@@ -48,13 +48,7 @@ Regardless of what our meeting structure looks like, the floor is dedicated to t
 
 The thesis journal is the primary way that we have to see how you're doing and what your work is looking like. We'll often ask you to post in it. We're not looking for professional writing–these are more just notes to you, me, and the residents. These often end up being extremely useful for you as you continue through the semester. Some weeks there will be a specific assignment to post as your weekly update. 
 
-## Additional Support
-
-Aside from me, Ellen, and Alden, remember that you can seek out the advice and support of the ITP Fellows, Margaret Smith (the Physical Sciences Librarian at Bobst), other ITP/IMA faculty, and others. 
-
-## A Final Note
-
-Everything that's on this page can be found on the main thesis syllabus as well. This is more for people who prefer something customized to us and who like to have syllabi presented weekly rather than all at once. 
+Note: Everything that's on this page can be found on the main thesis syllabus as well. This is more for people who prefer something customized to us and who like to have syllabi presented weekly rather than all at once. The thesis journal is the more official repository, though. 
 
 ## Syllabus 
 

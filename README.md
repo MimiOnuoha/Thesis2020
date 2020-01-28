@@ -13,7 +13,7 @@
 
 ## Overview
 
-Your thesis is an opportunity for you to create something that speaks to your viewpoint, your interests, and your work at ITP over the past two years. It's also an opportunity to move through the entire product development cycle, and to do that with the scaffolding of a community of other people going through the process with you. 
+Your thesis is an opportunity for you to create something that speaks to your viewpoint, your interests, and your work at ITP. It's also an opportunity to move through the entire product development cycle, and to do that with the scaffolding of a community of other people going through the process with you. 
 
 The process is divided into three parts:
 
@@ -64,7 +64,7 @@ Note: Everything that's on this page can be found on the main thesis syllabus as
   	- Who would use it
   	- Why the maker made it
   	- The tone, experience, etc. 
-  	- Post to the Thesis Journal/ 
+  	- Post to the Thesis Journal 
 - **Research Chart**: Make a (physical, analog) chart with the questions you have a answers so far and bring it to class. You will share it in class, and colleagues will make suggestions. Then post it on the TJ along with any other summary of your research to date. Here are some critical questions to answer (as relevant for your specific idea):
   -  What else is out there like it? 
   - How is yours different? 

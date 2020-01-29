@@ -36,7 +36,7 @@ Regardless of what our meeting structure looks like, the floor is dedicated to t
 ## Major Milestones
 
 - **February 11:** Context paper due 
-- **February 15:** Thesis proposal due at 5:00pm (must be approved by faculty)
+- **February 14:** Thesis proposal due at 5:00pm (must be approved by faculty)
 - **March 12**: After this point, thesis topic cannot be changed
 - **April 2:** Quick and Dirty Show with First Years, Alums, and next year's First Years 
 - **April 16**: Project Summaries and Materials due for Thesis Archive
@@ -58,14 +58,14 @@ Note: Everything that's on this page can be found on the main thesis syllabus as
 
 **Assignment:** 
 
--  **Dream Review:** Write a rave review for your thesis/product.  Make it *Over-the-top positive*, and imagine it appears in whatever outlet where you would most like the publicity. Have fun with it, but take this seriously, as it helps the process of making your idea real and knowing how you want it to be received (and by whom).  Focus on the adjectives you use to describe the project, and make sure you post to the thesis journal. Remember, you should include: 
+-  **Dream Review:** Write a rave review for your thesis/product.  You don't have to spend more than 15-20 minutes on this, but make it *over-the-top positive*, and imagine it appears in whatever outlet where you would most like the publicity. Have fun with it, but take this seriously, as it helps the process of making your idea real and knowing how you want it to be received (and by whom).  Focus on the adjectives you use to describe the project, and make sure you post to the thesis journal. Remember, you should include: 
   	- What it is 
-  	- What it does 
-  	- Who would use it
-  	- Why the maker made it
-  	- The tone, experience, etc. 
-  	- Post to the Thesis Journal 
-- **Research Chart**: Make a (physical, analog) chart with the questions you have a answers so far and bring it to class. You will share it in class, and colleagues will make suggestions. Then post it on the TJ along with any other summary of your research to date. Here are some critical questions to answer (as relevant for your specific idea):
+  	  	- What it does 
+  	  	- Who would use it
+  	  	- Why the maker made it
+  	  	- The tone, experience, etc. 
+  	  	- Don't forget to post to the thesis journal! 
+- **Research Chart**: Make a (physical, analog) chart with the questions you have answers to so far and bring it to class. You will share it in class, and colleagues will make suggestions. Then post it on the TJ along with any other summary of your research to date. Here are some critical questions to answer (as relevant for your specific idea):
   -  What else is out there like it? 
   - How is yours different? 
   - How does it improve what exists? 
@@ -75,5 +75,6 @@ Note: Everything that's on this page can be found on the main thesis syllabus as
   - What do you need to know about the content/story? 
   - What do you need from a tech standpoint? 
   - If it’s too much for the time...what are the discrete parts of it you could accomplish? 
-- **Bibliography**: Start a bibliography/reference resource of all the references that you're consulting. Don't put this on the chart, but keep a digital collection using some tool that can help you keep track of everything (CSV, Google Docs, static web site, Are.na, Zotero, Evernote, Tumblr, Git whatever works for you.) 
+  - Note: the best theses come out of things that you've already been working and thinking about. If you're struggling to come up with an idea, consider if there's a project you've done in the past that has some aspect that you didn't have time to explore. What are the threads that you've been exploring so far?  
+- **Bibliography**: Start a bibliography/reference resource of all the references that you're consulting. Don't put this on the chart, but keep a digital collection using some tool that can help you keep track of everything (CSV, Google Docs, static web site, Are.na, Zotero, Evernote, Tumblr, Git whatever works for you.) You can post this to the thesis journal if you like. 
 

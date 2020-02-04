@@ -1,7 +1,5 @@
 ## Resident Lessons
 
-ask about slack 
-
 ### Ellen
 
 - *PROJECT*: Game where people get points for successfully sneaking in words

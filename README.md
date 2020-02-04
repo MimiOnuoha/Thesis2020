@@ -87,12 +87,12 @@ Note: Everything that's on this page can be found on the main thesis syllabus as
 - **Daily Sketches:** This is to help you get into the habit of working/thinking about your thesis every day. Answer one of these questions each day and post on the thesis blog:
 
   - **Day 1**: A song that represents the mood or vibe of my thesis world
-- **Day 2**: What are the worst possible ways to address my thesis statement or question?
+  - **Day 2**: What are the worst possible ways to address my thesis statement or question?
   - **Day 3**: What are three images that represent the world or mood of your thesis?
-- **Day 4**: What are three questions that I’ll investigate with my thesis project?
-  -  **Day 5**: What are three possible venues for this work to be shown (or to live)? Why do I want to be part of these institutions or venues?
-- **Day 6**: Three experts or types of people to speak to about my thesis (can be people who are accessible to you and who aren't)
-  
+  - **Day 4**: What are three questions that I’ll investigate with my thesis project?
+  - **Day 5**: What are three possible venues for this work to be shown (or to live)? Why do I want to be part of these institutions or venues?
+  - **Day 6**: Three experts or types of people to speak to about my thesis (can be people who are accessible to you and who aren't)
+
 - **Model/Prototype/Whatever it is**: Come to class next week with the result of the prompt that I emailed you about last week. This should take the form of a model, prototype, intervention, exercise, etc. If you didn't get a direct prompt from me, then come with some kind of model, sample, prototype: a quick intervention that is tangible, and that gets you into production mode. Our goal is for you to feel good about your idea and direction after this week so this is important to have. Please also post about it on the thesis blog. 
 
   

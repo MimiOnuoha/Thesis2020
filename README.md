@@ -84,7 +84,9 @@ Note: Everything that's on this page can be found on the main thesis syllabus as
 
 **Assignment:** 
 
-- **Model/Prototype/whatever it is**: Come to class next week with the result of the prompt that I emailed you about last week. This should take the form of a model, prototype, intervention, exercise, etc. If you didn't get a direct prompt from me, then come with some kind of model, sample, prototype: a quick intervention that is tangible, and that gets you into production mode. Our goal is for you to feel good about your idea and direction after this week so this is important to have. Please also post about it on the thesis blog. 
+- **Model/Prototype/whatever it is**: Come to class next week with the result of the prompt that I emailed you about last week. This should take the form of a model, prototype, intervention, exercise, etc. If you didn't get a direct prompt from me, then come with some kind of model, sample, prototype: a quick intervention that is tangible, and that gets you into production mode. Post something in the thesis journal about this, either documentation or the link to the product. 
+
+  - Our goal is for you to feel good about your idea and direction after this week so this is important to have!
 
 - If you feel ready, **you may want to start fleshing out the questions for the thesis proposal**. Check the supporting documents folder to see hem. 
 

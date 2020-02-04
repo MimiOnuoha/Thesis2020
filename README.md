@@ -36,7 +36,7 @@ Regardless of what our meeting structure looks like, the floor is dedicated to t
 ## Major Milestones
 
 - **February 11:** Context paper due 
-- **February 14:** Thesis proposal due at 5:00pm (must be approved by faculty)
+- **February 14:** Thesis proposal due at 5:00pm. This is a form that everyone must submit, in order to proceed with thesis the proposal you describe must be approved by the other faculty members. 
 - **March 12**: After this point, thesis topic cannot be changed
 - **April 2:** Quick and Dirty Show with First Years, Alums, and next year's First Years 
 - **April 16**: Project Summaries and Materials due for Thesis Archive
@@ -78,3 +78,21 @@ Note: Everything that's on this page can be found on the main thesis syllabus as
   - Note: the best theses come out of things that you've already been working and thinking about. If you're struggling to come up with an idea, consider if there's a project you've done in the past that has some aspect that you didn't have time to explore. What are the threads that you've been exploring so far?  
 - **Bibliography**: Start a bibliography/reference resource of all the references that you're consulting. Don't put this on the chart, but keep a digital collection using some tool that can help you keep track of everything (CSV, Google Docs, static web site, Are.na, Zotero, Evernote, Tumblr, Git whatever works for you.) You can post this to the thesis journal if you like. 
 
+### Week 2: Feb 4 
+
+*Residents talk about their theses, exercise on research*
+
+**Assignment:** 
+
+- **Daily Sketches:** get into the habit of working/thinking about your thesis every day! Answer one of these questions each day and post on the thesis blog:
+
+  - **Day 1**: A song that represents the mood or vibe of my thesis world
+- **Day 2**: What are the worst possible ways to address my thesis statement or question?
+  - **Day 3**: What are three images that represent the world or mood of your thesis?
+- **Day 4**: What are three questions that I’ll investigate with my thesis project?
+  -  **Day 5**: What are three possible venues for this work to be shown (or to live)? Why do I want to be part of these institutions or venues?
+- **Day 6**: Three experts or types of people to speak to about my thesis (can be people who are accessible to you and who aren't)
+  
+- **Model/Prototype/Whatever it is**: Come to class next week with the result of the prompt that I emailed you about last week! This should take the form of a model, prototype, intervention, exercise, etc. Our goal is for you to feel good about your idea and direction after this week so this is important to have! Please also post about it on the thesis blog. 
+
+  

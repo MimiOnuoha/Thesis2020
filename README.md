@@ -107,9 +107,9 @@ Note: Everything that's on this page can be found on the main thesis syllabus as
   
   **Assignment:** 
   
-  - **Post your bibliography to the thesis blog. ** If you have done this already, don't worry about it. In general, we want to be able to see the references and sources your project is in conversation with. 
+  - **Post your bibliography to the thesis blog.** If you have done this already, don't worry about it. In general, we want to be able to see the references and sources your project is in conversation with. 
   
-  - **Turn in your thesis statement.**You should be able to access this on the top header  bar of your section frontage. Keep in mind that you will not be able to see your thesis statement if you haven't written at least one progress post. You have to post this by Friday, Feb 14 at 5:00pm—you won't have access after this time!  
+  - **Turn in your thesis statement.** You should be able to access this on the top header  bar of your section frontage. Keep in mind that you will not be able to see your thesis statement if you haven't written at least one progress post. You have to post this by Friday, Feb 14 at 5:00pm—you won't have access after this time!  
   -  **Work on your project**. Do whatever you need to do. 
   
   Note: look out for an email from me about next week! We won't be meeting as a group, but we have the classroom booked, the floor is yours, and you can use the time to meet with me, the residents, or one another. 

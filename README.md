@@ -35,8 +35,8 @@ Regardless of what our meeting structure looks like, the floor is dedicated to t
 
 ## Major Milestones
 
-- **February 11:** Context paper due 
 - **February 14:** Thesis proposal due at 5:00pm. This is a form that everyone must submit, in order to proceed with thesis the proposal you describe must be approved by the other faculty members. 
+- **March 10**: Thesis midterm presentations  (in class, with external guests)
 - **March 12**: After this point, thesis topic cannot be changed
 - **April 2:** Quick and Dirty Show with First Years, Alums, and next year's First Years 
 - **April 16**: Project Summaries and Materials due for Thesis Archive
@@ -101,4 +101,17 @@ Note: Everything that's on this page can be found on the main thesis syllabus as
 
   
 
+  ### Week 3: Feb 11
   
+  *Check in and share prototypes + make a production schedule with the residents* 
+  
+  **Assignment:** 
+  
+  - **Post your bibliography to the thesis blog. ** If you have done this already, don't worry about it. In general, we want to be able to see the references and sources your project is in conversation with. 
+  
+  - **Turn in your thesis statement.**You should be able to access this on the top header  bar of your section frontage. Keep in mind that you will not be able to see your thesis statement if you haven't written at least one progress post. You have to post this by Friday, Feb 14 at 5:00pm—you won't have access after this time!  
+  -  **Work on your project**. Do whatever you need to do. 
+  
+  Note: look out for an email from me about next week! We won't be meeting as a group, but we have the classroom booked, the floor is yours, and you can use the time to meet with me, the residents, or one another. 
+
+![](/Users/mimio/Downloads/thesisstatement.png)

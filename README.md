@@ -52,6 +52,44 @@ Note: Everything that's on this page can be found on the main thesis syllabus as
 
 ## Syllabus 
 
+
+  ### Week 3: Feb 11
+  
+  *Check in and share prototypes + make a production schedule with the residents* 
+  
+  **Assignment:** 
+  
+  - **Post your bibliography to the thesis blog.** If you have done this already, don't worry about it. In general, we want to be able to see the references and sources your project is in conversation with. 
+  
+  - **Turn in your thesis statement.** You should be able to access this on the top header  bar of your section frontage. Keep in mind that you will not be able to see your thesis statement if you haven't written at least one progress post. You have to post this by Friday, Feb 14 at 5:00pm—you won't have access after this time!  
+  -  **Work on your project**. Do whatever you need to do. 
+  
+  Note: look out for an email from me about next week! We won't be meeting as a group, but we have the classroom booked, the floor is yours, and you can use the time to meet with me, the residents, or one another. 
+
+![](/Users/mimio/Downloads/thesisstatement.png)
+
+
+### Week 2: Feb 4 
+
+*Residents talk about their theses, exercise on research*
+
+**Assignment:** 
+
+- **Model/Prototype/whatever it is**: Come to class next week with the result of the prompt that I emailed you about last week. This should take the form of a model, prototype, intervention, exercise, etc. If you didn't get a direct prompt from me, then come with some kind of model, sample, prototype: a quick intervention that is tangible, and that gets you into production mode. Post something in the thesis journal about this, either documentation or the link to the product. 
+
+  - Our goal is for you to feel good about your idea and direction after this week so this is important to have!
+
+- If you feel ready, **you may want to start fleshing out the questions for the thesis proposal**. Check the supporting documents folder to see hem. 
+
+- [optional]**Daily Sketches:** This is to help you get into the habit of working/thinking about your thesis every day. Answer one of these questions each day and post on the thesis blog:
+
+  - **Day 1**: A song that represents the mood or vibe of my thesis world
+  - **Day 2**: What are the worst possible ways to address my thesis statement or question?
+  - **Day 3**: What are three images that represent the world or mood of your thesis?
+  - **Day 4**: What are three questions that I’ll investigate with my thesis project?
+  - **Day 5**: What are three possible venues for this work to be shown (or to live)? Why do I want to be part of these institutions or venues?
+  - **Day 6**: Three experts or types of people to speak to about my thesis (can be people who are accessible to you and who aren't)
+
 ### Week 1: Jan 28
 
 *Introductions to each other, syllabus overview, logistics of the semester, and portfolio presentations.*
@@ -78,40 +116,7 @@ Note: Everything that's on this page can be found on the main thesis syllabus as
   - Note: the best theses come out of things that you've already been working and thinking about. If you're struggling to come up with an idea, consider if there's a project you've done in the past that has some aspect that you didn't have time to explore. What are the threads that you've been exploring so far?  
 - **Bibliography**: Start a bibliography/reference resource of all the references that you're consulting. Don't put this on the chart, but keep a digital collection using some tool that can help you keep track of everything (CSV, Google Docs, static web site, Are.na, Zotero, Evernote, Tumblr, Git whatever works for you.) You can post this to the thesis journal if you like. 
 
-### Week 2: Feb 4 
 
-*Residents talk about their theses, exercise on research*
-
-**Assignment:** 
-
-- **Model/Prototype/whatever it is**: Come to class next week with the result of the prompt that I emailed you about last week. This should take the form of a model, prototype, intervention, exercise, etc. If you didn't get a direct prompt from me, then come with some kind of model, sample, prototype: a quick intervention that is tangible, and that gets you into production mode. Post something in the thesis journal about this, either documentation or the link to the product. 
-
-  - Our goal is for you to feel good about your idea and direction after this week so this is important to have!
-
-- If you feel ready, **you may want to start fleshing out the questions for the thesis proposal**. Check the supporting documents folder to see hem. 
-
-- [optional]**Daily Sketches:** This is to help you get into the habit of working/thinking about your thesis every day. Answer one of these questions each day and post on the thesis blog:
-
-  - **Day 1**: A song that represents the mood or vibe of my thesis world
-  - **Day 2**: What are the worst possible ways to address my thesis statement or question?
-  - **Day 3**: What are three images that represent the world or mood of your thesis?
-  - **Day 4**: What are three questions that I’ll investigate with my thesis project?
-  - **Day 5**: What are three possible venues for this work to be shown (or to live)? Why do I want to be part of these institutions or venues?
-  - **Day 6**: Three experts or types of people to speak to about my thesis (can be people who are accessible to you and who aren't)
 
   
 
-  ### Week 3: Feb 11
-  
-  *Check in and share prototypes + make a production schedule with the residents* 
-  
-  **Assignment:** 
-  
-  - **Post your bibliography to the thesis blog.** If you have done this already, don't worry about it. In general, we want to be able to see the references and sources your project is in conversation with. 
-  
-  - **Turn in your thesis statement.** You should be able to access this on the top header  bar of your section frontage. Keep in mind that you will not be able to see your thesis statement if you haven't written at least one progress post. You have to post this by Friday, Feb 14 at 5:00pm—you won't have access after this time!  
-  -  **Work on your project**. Do whatever you need to do. 
-  
-  Note: look out for an email from me about next week! We won't be meeting as a group, but we have the classroom booked, the floor is yours, and you can use the time to meet with me, the residents, or one another. 
-
-![](/Users/mimio/Downloads/thesisstatement.png)

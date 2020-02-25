@@ -52,18 +52,37 @@ Note: Everything that's on this page can be found on the main thesis syllabus as
 
 ## Syllabus 
 
+  ### Week 5: Feb 25
+
+  *Check in and share prototypes + make a production schedule with the residents* 
+
+  **Assignment:** 
+
+  - **Work on your project**. Do a thing, build a thing, meet with people, make a prototype, design a layout, stage a workshop, hack an object. Don't forget to document. 
+  - **Update the thesis journal with your progress.** A paragraph is all you need.
+  - **Start preparing your midterm presentation.** We'll have presentation practice next week. 
+
+  ### Week 4: Feb 16
+
+  *Check in and share prototypes + make a production schedule with the residents* 
+
+  **Assignment:** 
+
+  - **Work on your project**. Make some substantive progress! 
+  - **Update the thesis journal with your progress.** A line, a paragraph, a link to your Asana/milanote/Zotero/Github. Just something that sets my solipsistic mind at ease and lets me know that you still exist in the world and are making progress.
+
 
   ### Week 3: Feb 11
-  
+
   *Check in and share prototypes + make a production schedule with the residents* 
-  
+
   **Assignment:** 
-  
+
   - **Post your bibliography to the thesis blog.** If you have done this already, don't worry about it. In general, we want to be able to see the references and sources your project is in conversation with. 
   
   - **Turn in your thesis statement.** You should be able to access this on the top header  bar of your section frontage. Keep in mind that you will not be able to see your thesis statement if you haven't written at least one progress post. You have to post this by Friday, Feb 14 at 5:00pm—you won't have access after this time!  
   -  **Work on your project**. Do whatever you need to do. 
-  
+
   Note: look out for an email from me about next week! We won't be meeting as a group, but we have the classroom booked, the floor is yours, and you can use the time to meet with me, the residents, or one another. 
 
 ![](/Users/mimio/Downloads/thesisstatement.png)
